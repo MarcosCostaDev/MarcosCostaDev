@@ -6,11 +6,11 @@ I got a degree in Systems Analysis and Development. Also, I am recognized as MCS
 
 ## Knowledging Technologies:
 
-| Back-End  | Front-end  | Mobile | Database  | CI/CD  | 
-|---|---|---|---|---|
-| C#  | Angular | Android | SQL Server | Jenkins |
-| ASP.NET | Javascript | IONIC | Mysql | Gitlab |
-| NodeJs | Typescript | Xamarin | NoSql |
+| Back-End  | Front-end  | Mobile | Database  | CI/CD  | Cloud
+|---|---|---|---|---|---|
+| C#  | Angular | Android | SQL Server | Jenkins | Azure
+| ASP.NET | Javascript | IONIC | Mysql | Gitlab | AzureAD
+| NodeJs | Typescript | Xamarin | NoSql | Azure DevOps |
 | Java |  HTML | | MongoDB | 
 | | CSS | | |
 | | SASS | | |
