@@ -16,6 +16,10 @@ I got a degree in Systems Analysis and Development. Also, I am recognized as MCS
 | | SASS | | |
 | | Jquery | | |
 
+## Some Certifications
+- [MCSD: App Builder — Certified 2020](https://bit.ly/3gLCanA)
+- [MCSA: Web Applications - Certified 2020](http://bit.ly/39MoiWq)
+- [Agile SCRUM Foundation](https://bit.ly/2W7uYtX)
 
 
 ### Reach me on the web and learn more.
