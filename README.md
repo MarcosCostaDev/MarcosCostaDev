@@ -6,6 +6,8 @@ I got a degree in Systems Analysis and Development. Also, I am recognized as MCS
 
 # Knowledging Technologies:
 
+|   |   |   |   |   |
+|---|---|---|---|---|
 | C#  | ASP.NET  | SQL Server  | MYSQL  | POSTGRES  |
 | Javascript  | Typescript  | Nodejs  |  Azure| CSS  |
 | SASS  | Bootstrap  | IONIC  | Angular  | NoSql  |
