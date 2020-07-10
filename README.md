@@ -4,7 +4,7 @@ I am a Brazilian Software Architect & Developer who have lived in Canada since 2
 I got a degree in Systems Analysis and Development. Also, I am recognized as MCSA and MCSD by Microsoft. I created a lot of Android, Windows Phone apps throughout my developer life. I am used to using in my server technologies C#, ASP.NET (Core/Full Framework, and probably when you are reading this .NET 5). 
 
 
-## Knowledging Technologies:
+## Some Knowledging Technologies:
 
 | Back-End  | Front-end  | Mobile | Database  | CI/CD  | Cloud
 |---|---|---|---|---|---|
