@@ -1,28 +1,33 @@
-# Hi There!
+<h1 align="center"> 
+	✅ Welcome to my GitHub 🚀
+</h1>
 
-I am a Brazilian Software Architect & Developer who have lived in Canada since 2018. I've started my life as a developer since 2012 or so. Since then, my life has gone through different back-end, front-end and DevOps technologies.
-I got a degree in Systems Analysis and Development. Also, I am recognized as MCSA and MCSD by Microsoft. I created a lot of Android, Windows Phone apps throughout my developer life. I am used to using in my server technologies C#, ASP.NET (Core/Full Framework, and probably when you are reading this .NET 5). 
-
-
-## Some Knowledging Technologies:
-
-| Back-End  | Front-end  | Mobile | Database  | CI/CD  | Cloud
-|---|---|---|---|---|---|
-| C#  | Angular | Android | SQL Server | Jenkins | Azure
-| ASP.NET | Javascript | IONIC | Mysql | Gitlab | AzureAD
-| NodeJs | Typescript | Xamarin | NoSql | Azure DevOps |
-| Java |  HTML | | MongoDB | 
-| | CSS | | |
-| | SASS | | |
-| | Jquery | | |
-
-## Some Certifications
-- [MCSD: App Builder — Certified 2020](https://bit.ly/3gLCanA)
-- [MCSA: Web Applications - Certified 2020](http://bit.ly/39MoiWq)
-- [Agile SCRUM Foundation](https://bit.ly/2W7uYtX)
+### Hi there 👋
 
 
-### Reach me on the web and learn more.
-- [LinkedIn](https://www.linkedin.com/in/MarcosCostaDev)
-- [Twitter](https://twitter.com/MarcosCostaDev)
+A little about me:
 
+- 🇨🇦  Toronto, **Canada**.
+- 🔭  I'm a Software Engineer.
+- 🌱  I'm currently learning everything related to **.NET Platform** and **Azure development**.
+- 📚  Self-taught
+- 🕹️  Fan-fact: I`ve never broken a joystick playing a tough game (at least, this year). Love playing bomberman 💣 and other games in my ![nintendo switch](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
+
+### ⚡ Skills:
+- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Angular JS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![Sql Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🛠 Tools:
+- ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Github Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 📈 Stats 
+ 
+[![Marcos Costa stats](https://github-readme-stats.vercel.app/api?username=marcoscostadev&theme=cobalt&show_icons=true)](https://github.com/marcoscostadev/github-readme-stats)
+
+### 💡  Languages 
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoscostadev&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
+
+<hr>
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcoscostadev/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/#/im?p=@marcoscostadev)
+[![Twitter](https://img.shields.io/badge/marcoscostadev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/MarcosCostaDev)
