@@ -8,7 +8,7 @@
 A little about me:
 
 - 🇨🇦  Toronto, **Canada**.
-- 🔭  I'm a Software Engineer with over 8 years of professional experience. 
+- 🔭  I'm a Software Engineer with over 8 years of professional experience.  
 - 🌱  I'm currently learning everything related to **.NET Platform** and **Azure development**.
 - 📚  Self-taught
 - 🕹️  Fan-fact: I`ve never broken a joystick playing a tough game (at least, this year). Love playing bomberman 💣 and other games in my ![nintendo switch](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
@@ -26,8 +26,14 @@ A little about me:
 ### 💡  Languages 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoscostadev&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
 
+### 🎓 Certifications
+
+[![MCSA](https://images.credly.com/size/100x100/images/b87c24db-0e54-4f78-8059-eb47675d585d/MCSA-Web_Applications.png)](http://bit.ly/39MoiWq) [![MCSD](https://images.credly.com/size/100x100/images/38ac16bb-aba0-449f-912d-a0112adc5657/MCSD-App_Builder.png)](https://bit.ly/3gLCanA) [![Scrum Foundation](https://images.credly.com/size/100x100/images/c2ddc533-ba6c-464d-a69d-f9f28177176b/CertiProf-Badge-SFPC.png)](https://bit.ly/2Yojd3v) [![Devops Essentials](https://images.credly.com/size/100x100/images/165466d3-37d8-4dcb-821d-cb072cfd2a69/CertiProf-Badge-DEPC.png)](https://bit.ly/2QhJ8VW) [<img src="https://app.exeed.pro:443/api/Images/BadgeTemplate/3" alt="Exin" width="100"/>](https://bit.ly/2W7uYtX)
+
+
 <hr>
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcoscostadev/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/#/im?p=@marcoscostadev)
 [![Twitter](https://img.shields.io/badge/marcoscostadev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/MarcosCostaDev)
+
