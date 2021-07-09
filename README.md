@@ -8,7 +8,7 @@
 A little about me:
 
 - 🇨🇦  Toronto, **Canada**.
-- 🔭  I'm a Software Engineer.
+- 🔭  I'm a Software Engineer with over 8 years of professional experience. 
 - 🌱  I'm currently learning everything related to **.NET Platform** and **Azure development**.
 - 📚  Self-taught
 - 🕹️  Fan-fact: I`ve never broken a joystick playing a tough game (at least, this year). Love playing bomberman 💣 and other games in my ![nintendo switch](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
