@@ -28,7 +28,7 @@ A little about me:
 
 ### 🎓 Certifications
 
-[![MCSA](https://images.credly.com/size/100x100/images/b87c24db-0e54-4f78-8059-eb47675d585d/MCSA-Web_Applications.png)](http://bit.ly/39MoiWq) [![MCSD](https://images.credly.com/size/100x100/images/38ac16bb-aba0-449f-912d-a0112adc5657/MCSD-App_Builder.png)](https://bit.ly/3gLCanA) [![Scrum Foundation](https://images.credly.com/size/100x100/images/c2ddc533-ba6c-464d-a69d-f9f28177176b/CertiProf-Badge-SFPC.png)](https://bit.ly/2Yojd3v) [![Devops Essentials](https://images.credly.com/size/100x100/images/165466d3-37d8-4dcb-821d-cb072cfd2a69/CertiProf-Badge-DEPC.png)](https://bit.ly/2QhJ8VW) [<img src="https://app.exeed.pro:443/api/Images/BadgeTemplate/3" alt="Exin" width="100"/>](https://bit.ly/2W7uYtX)
+[![MCSA](https://images.credly.com/size/100x100/images/b87c24db-0e54-4f78-8059-eb47675d585d/MCSA-Web_Applications.png)](http://bit.ly/39MoiWq) [![MCSD](https://images.credly.com/size/100x100/images/38ac16bb-aba0-449f-912d-a0112adc5657/MCSD-App_Builder.png)](https://bit.ly/3gLCanA) [![Scrum Foundation](https://images.credly.com/size/100x100/images/c2ddc533-ba6c-464d-a69d-f9f28177176b/CertiProf-Badge-SFPC.png)](https://www.credly.com/badges/cdfe20f7-7ba1-42cd-8883-b1b19b3ded2a) [![Devops Essentials](https://images.credly.com/size/100x100/images/165466d3-37d8-4dcb-821d-cb072cfd2a69/CertiProf-Badge-DEPC.png)](https://www.credly.com/badges/16624e2c-24ee-4e69-a9af-5a220d2ee079) [<img src="https://app.exeed.pro:443/api/Images/BadgeTemplate/3" alt="Exin" width="100"/>](https://bit.ly/2W7uYtX)
 
 
 <hr>
