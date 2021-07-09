@@ -21,7 +21,7 @@ A little about me:
 
 ### 📈 Stats 
  
-[![Marcos Costa stats](https://github-readme-stats.vercel.app/api?username=marcoscostadev&theme=cobalt&show_icons=true)](https://github.com/marcoscostadev/github-readme-stats)
+![Marcos Costa stats](https://github-readme-stats.vercel.app/api?username=marcoscostadev&theme=cobalt&show_icons=true)
 
 ### 💡  Languages 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoscostadev&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
