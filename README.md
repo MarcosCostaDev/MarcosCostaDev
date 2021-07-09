@@ -19,16 +19,17 @@ A little about me:
 ### 🛠 Tools:
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Github Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+
+### 🎓 Certifications
+
+[![MCSA](https://images.credly.com/size/100x100/images/b87c24db-0e54-4f78-8059-eb47675d585d/MCSA-Web_Applications.png)](http://bit.ly/39MoiWq) [![MCSD](https://images.credly.com/size/100x100/images/38ac16bb-aba0-449f-912d-a0112adc5657/MCSD-App_Builder.png)](https://bit.ly/3gLCanA) [![Scrum Foundation](https://images.credly.com/size/100x100/images/c2ddc533-ba6c-464d-a69d-f9f28177176b/CertiProf-Badge-SFPC.png)](https://www.credly.com/badges/cdfe20f7-7ba1-42cd-8883-b1b19b3ded2a) [![Devops Essentials](https://images.credly.com/size/100x100/images/165466d3-37d8-4dcb-821d-cb072cfd2a69/CertiProf-Badge-DEPC.png)](https://www.credly.com/badges/16624e2c-24ee-4e69-a9af-5a220d2ee079) [<img src="https://app.exeed.pro:443/api/Images/BadgeTemplate/3" alt="Exin" width="100"/>](https://bit.ly/2W7uYtX)
+
 ### 📈 Stats 
  
 ![Marcos Costa stats](https://github-readme-stats.vercel.app/api?username=marcoscostadev&theme=cobalt&show_icons=true)
 
 ### 💡  Languages 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoscostadev&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
-
-### 🎓 Certifications
-
-[![MCSA](https://images.credly.com/size/100x100/images/b87c24db-0e54-4f78-8059-eb47675d585d/MCSA-Web_Applications.png)](http://bit.ly/39MoiWq) [![MCSD](https://images.credly.com/size/100x100/images/38ac16bb-aba0-449f-912d-a0112adc5657/MCSD-App_Builder.png)](https://bit.ly/3gLCanA) [![Scrum Foundation](https://images.credly.com/size/100x100/images/c2ddc533-ba6c-464d-a69d-f9f28177176b/CertiProf-Badge-SFPC.png)](https://www.credly.com/badges/cdfe20f7-7ba1-42cd-8883-b1b19b3ded2a) [![Devops Essentials](https://images.credly.com/size/100x100/images/165466d3-37d8-4dcb-821d-cb072cfd2a69/CertiProf-Badge-DEPC.png)](https://www.credly.com/badges/16624e2c-24ee-4e69-a9af-5a220d2ee079) [<img src="https://app.exeed.pro:443/api/Images/BadgeTemplate/3" alt="Exin" width="100"/>](https://bit.ly/2W7uYtX)
 
 
 <hr>
