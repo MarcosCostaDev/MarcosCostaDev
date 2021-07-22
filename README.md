@@ -8,7 +8,7 @@
 A little about me:
 
 - 🇨🇦  Toronto, **Canada**.
-- 🔭  I'm a Software Engineer with over 8 years of professional experience. Passionate for clean code, domain driven and test driven development.
+- 🔭  I'm a Software Engineer with over 8 years of professional experience. Passionate for clean code, domain driven and test driven design.
 - 🌱  I'm currently learning everything related to **.NET Platform** and **Azure**.
 - 📚  System Analysis and Development Diploma; and Self-taught
 
