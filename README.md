@@ -30,6 +30,10 @@ A little about me:
 ### 💡  Languages 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoscostadev&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
 
+<p align="center">
+<img src="https://badges.pufler.dev/visits/marcoscostadev/marcoscostadev"></img> &nbsp;
+Thanks for your visiting
+</p>
 
 <hr>
 
