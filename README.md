@@ -11,7 +11,7 @@ A little about me:
 - 🔭  I'm a Software Engineer with over 8 years of professional experience. Passionate for clean code, domain driven design and test driven development.
 - 🌱  I'm currently learning everything related to **.NET Platform** and **Azure**.
 - 📚  System Analysis and Development Diploma; and Self-taught
-- ✍️  Sometimes a technical article writer in [Medium](https://medium.com/@MarcosCostaDev) 
+- ✍️  Sometimes a technical article Writer in [Medium](https://medium.com/@MarcosCostaDev) 
 - 💬 Ask me anything [here](https://github.com/marcoscostadev/marcoscostadev/issues)
 
 ### ⚡ Skills:
