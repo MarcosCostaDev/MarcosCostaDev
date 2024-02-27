@@ -7,8 +7,8 @@
 
 A little about me:
 
-- 🇨🇦  Toronto, **Canada**.
-- 🔭  I'm a Software Engineer with over 10 years of professional experience. Passionate for clean code, domain-driven design, and test-driven development.
+- 🇨🇦  Ontario, **Canada**.
+- 🔭  I'm a Software Engineer with over 11 years of professional experience. Passionate for clean code, domain-driven design, and test-driven development.
 - 🌱  I'm currently learning everything related to **.NET Platform**, **Azure** and **Microservices architecture**.
 - 📚  System Analysis and Development Diploma; and Self-taught
 - ✍️  Sometimes a technical article Writer in [DevTo](https://dev.to/marcoscostadev) and [Medium](https://medium.com/@MarcosCostaDev)
@@ -87,7 +87,8 @@ A little about me:
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white&style=plastic)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white&style=plastic)
 
-### 🎓 Certifications
+## 🎓 Certifications
+
 [![Azure Fundamentals](https://images.credly.com/size/100x100/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://bit.ly/3APJCv8)
 [![MCSA](https://images.credly.com/size/100x100/images/b87c24db-0e54-4f78-8059-eb47675d585d/MCSA-Web_Applications.png)](http://bit.ly/39MoiWq) 
 [![MCSD](https://images.credly.com/size/100x100/images/38ac16bb-aba0-449f-912d-a0112adc5657/MCSD-App_Builder.png)](https://bit.ly/3gLCanA) 
@@ -95,11 +96,11 @@ A little about me:
 [![Devops Essentials](https://images.credly.com/size/100x100/images/9a67731c-fdeb-40d5-bf35-aab041b3020b/image.png)](https://www.credly.com/badges/16624e2c-24ee-4e69-a9af-5a220d2ee079) 
 [<img src="https://app.exeed.pro:443/api/Images/BadgeTemplate/3" alt="Exin" width="100"/>](https://bit.ly/2W7uYtX)
 
-### 📈 Stats 
+## 📈 GitHub Stats
  
 ![Marcos Costa stats](https://github-readme-stats.vercel.app/api?username=marcoscostadev&theme=cobalt&show_icons=true)
 
-### 💡  Languages 
+### 💡  Languages used in Github
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoscostadev&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
 
 <p align="center">
