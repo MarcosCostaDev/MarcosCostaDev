@@ -11,7 +11,7 @@ A little about me:
 - 🔭  I'm a Software Engineer with over 11 years of professional experience. Passionate for clean code, domain-driven design, and test-driven development.
 - 🌱  I'm currently learning everything related to **.NET Platform**, **Azure** and **Microservices architecture**.
 - 📚  System Analysis and Development Diploma; and Self-taught
-- ✍️  Sometimes a technical article Writer in [DevTo](https://dev.to/marcoscostadev) and [Medium](https://medium.com/@MarcosCostaDev)
+- ✍️  Sometimes a technical article Writer in [dev.to](https://dev.to/marcoscostadev) and [Medium](https://medium.com/@MarcosCostaDev)
 
 ## ⚡ Skills:
 
@@ -110,7 +110,8 @@ Thanks for your visiting
 
 <hr>
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/marcoscostadev/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&style=plastic)](https://t.me/marcoscostadev)
-[![Twitter](https://img.shields.io/badge/marcoscostadev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&style=plastic)](https://twitter.com/MarcosCostaDev)
-
+[![Linkedin to marcoscostadev](https://img.shields.io/badge/@marcoscostadev-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/marcoscostadev/)
+[![Telegram to marcoscostadev](https://img.shields.io/badge/@marcoscostadev-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&style=plastic)](https://t.me/marcoscostadev)
+[![X(twitter) to marcoscostadev](https://img.shields.io/badge/@marcoscostadev-%23000000.svg?style=for-the-badge&logo=X&logoColor=white&style=plastic)](https://twitter.com/MarcosCostaDev)
+[![Dev.to marcoscostadev](https://img.shields.io/badge/@marcoscostadev-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&style=plastic)](https://dev.to/marcoscostadev)
+[![Medium @marcoscostadev](https://img.shields.io/badge/@marcoscostadev-12100E?style=for-the-badge&logo=medium&logoColor=white&style=plastic)](https://medium.com/@MarcosCostaDev)
