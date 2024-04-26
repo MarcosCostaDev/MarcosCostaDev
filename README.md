@@ -9,7 +9,7 @@ A little about me:
 
 - 🇨🇦  Ontario, **Canada**.
 - 🔭  I'm a Software Engineer with over 11 years of professional experience. Passionate for clean code, domain-driven design, and test-driven development.
-- 🌱  I'm currently learning everything related to **Microservices architecture**, **Horizontal Scaling** and **Distributed Systems**.
+- 🌱  I'm currently learning everything related to **Cloud**, **Microservices architecture**, **Horizontal Scaling** and **Distributed Systems**.
 - 📚  System Analysis and Development Diploma; and Self-taught
 - ✍️  Sometimes a technical article Writer in [dev.to](https://dev.to/marcoscostadev) and [Medium](https://medium.com/@MarcosCostaDev)
 
