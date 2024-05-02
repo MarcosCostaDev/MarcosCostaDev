@@ -7,7 +7,7 @@
 
 A little about me:
 
-- 🇨🇦  Ontario, **Canada**.
+- 📍  Ontario, Canada 🇨🇦.
 - 🔭  I'm a Software Engineer with over 11 years of professional experience. Passionate for clean code, domain-driven design, and test-driven development.
 - 🌱  I'm currently learning everything related to **Cloud**, **Microservices Architecture**, **Horizontal Scaling** and **Distributed Systems**.
 - 📚  System Analysis and Development Diploma; and Self-taught
