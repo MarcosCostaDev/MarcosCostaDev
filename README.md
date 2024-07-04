@@ -91,7 +91,7 @@ A little about me:
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white&style=plastic)
 
 ## 🎓 Certifications
-
+[![GitHub Fundamentals](https://images.credly.com/size/100x100/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](https://bit.ly/3VPTyxp)
 [![Azure Fundamentals](https://images.credly.com/size/100x100/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://bit.ly/3APJCv8)
 [![MCSA](https://images.credly.com/size/100x100/images/b87c24db-0e54-4f78-8059-eb47675d585d/MCSA-Web_Applications.png)](http://bit.ly/39MoiWq) 
 [![MCSD](https://images.credly.com/size/100x100/images/38ac16bb-aba0-449f-912d-a0112adc5657/MCSD-App_Builder.png)](https://bit.ly/3gLCanA) 
