@@ -13,6 +13,14 @@ A little about me:
 - 📚  System Analysis and Development Diploma; and Self-taught; [Read my resume](https://read.cv/marcoscostadev)
 - ✍️  Sometimes a technical article Writer in [dev.to](https://dev.to/marcoscostadev) and [Medium](https://medium.com/@MarcosCostaDev)
 
+## 🎓 Certifications
+[![GitHub Fundamentals](https://images.credly.com/size/100x100/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](https://bit.ly/3RQRjJi)
+[![Azure Fundamentals](https://images.credly.com/size/100x100/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://bit.ly/3APJCv8)
+[![MCSA](https://images.credly.com/size/100x100/images/b87c24db-0e54-4f78-8059-eb47675d585d/MCSA-Web_Applications.png)](http://bit.ly/39MoiWq) 
+[![MCSD](https://images.credly.com/size/100x100/images/38ac16bb-aba0-449f-912d-a0112adc5657/MCSD-App_Builder.png)](https://bit.ly/3gLCanA) 
+[![Scrum Foundation](https://images.credly.com/size/100x100/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png)](https://www.credly.com/badges/cdfe20f7-7ba1-42cd-8883-b1b19b3ded2a) 
+[![Devops Essentials](https://images.credly.com/size/100x100/images/9a67731c-fdeb-40d5-bf35-aab041b3020b/image.png)](https://www.credly.com/badges/16624e2c-24ee-4e69-a9af-5a220d2ee079) 
+[<img src="https://app.exeed.pro:443/api/Images/BadgeTemplate/3" alt="Exin" width="100"/>](https://bit.ly/2W7uYtX)
 
 ## ⚡ Skills:
 
@@ -33,8 +41,8 @@ A little about me:
 | ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white&style=plastic) | ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white&style=plastic) |
 | ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white&style=plastic) | ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white&style=plastic) |
 | ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white&style=plastic)  | ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white&style=plastic)  |
-| ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&style=plastic) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB&style=plastic) | ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white&style=plastic) |
-|   |   |
+|  | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&style=plastic) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB&style=plastic) |
+|   | ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white&style=plastic)  |
 
 
 ### 🗄️ Databases
@@ -90,14 +98,6 @@ A little about me:
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white&style=plastic)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white&style=plastic)
 
-## 🎓 Certifications
-[![GitHub Fundamentals](https://images.credly.com/size/100x100/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](https://bit.ly/3RQRjJi)
-[![Azure Fundamentals](https://images.credly.com/size/100x100/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://bit.ly/3APJCv8)
-[![MCSA](https://images.credly.com/size/100x100/images/b87c24db-0e54-4f78-8059-eb47675d585d/MCSA-Web_Applications.png)](http://bit.ly/39MoiWq) 
-[![MCSD](https://images.credly.com/size/100x100/images/38ac16bb-aba0-449f-912d-a0112adc5657/MCSD-App_Builder.png)](https://bit.ly/3gLCanA) 
-[![Scrum Foundation](https://images.credly.com/size/100x100/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png)](https://www.credly.com/badges/cdfe20f7-7ba1-42cd-8883-b1b19b3ded2a) 
-[![Devops Essentials](https://images.credly.com/size/100x100/images/9a67731c-fdeb-40d5-bf35-aab041b3020b/image.png)](https://www.credly.com/badges/16624e2c-24ee-4e69-a9af-5a220d2ee079) 
-[<img src="https://app.exeed.pro:443/api/Images/BadgeTemplate/3" alt="Exin" width="100"/>](https://bit.ly/2W7uYtX)
 
 ## 📈 GitHub Stats
  
