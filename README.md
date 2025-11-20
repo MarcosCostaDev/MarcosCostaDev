@@ -26,7 +26,7 @@ A little about me:
 
 | Project | Description |
 |---------|-------------|
-| [<img src="https://raw.githubusercontent.com/KamiYomu/KamiYomu/refs/heads/main/Inkscape/logo.svg" alt="KamiYomu" width="80"/>](https://github.com/KamiYomu/KamiYomu)<br>**KamiYomu** | An open‑source Manga Downloader that retrieves content from the internet. |
+| [<img src="https://raw.githubusercontent.com/KamiYomu/KamiYomu/refs/heads/main/Inkscape/logo.svg" alt="KamiYomu" width="80"/>](https://github.com/KamiYomu/KamiYomu)<br>**KamiYomu** | An Open Source Manga Downloader - KamiYomu is a powerful, extensible manga downloader built for manga enthusiasts who want full control over their collection. It scans and downloads manga from supported websites, stores them locally, and lets you host your own private manga reader |
 | [<img src="https://play-lh.googleusercontent.com/OygLvlc6n2z7S4eDqUbfzc-rFjwLYoEzBoX0XS2qJLCV3HrbcwWpxG_zd6_WuTD4nw=w480-h960-rw" alt="Diario RPD" width="80"/>](https://play.google.com/store/apps/details?id=com.marcoscosta.diariorpd&hl=en)<br>**Diário RPD / RDT Diary** | An Android Application created in MAUI — The Dysfunctional Thought Record Diary (DTR Diary) helps elevate self‑awareness and embark on a transformative journey. Designed to monitor and record automatic thoughts, it serves as a companion to therapy sessions, providing a comprehensive toolset for gaining insight into cognitive patterns. |
 
 | 💡 Languages used in GitHub | 📈 GitHub Stats |
