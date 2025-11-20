@@ -21,12 +21,9 @@ A little about me:
 [![Devops Essentials](https://images.credly.com/size/100x100/images/9a67731c-fdeb-40d5-bf35-aab041b3020b/image.png)](https://www.credly.com/badges/16624e2c-24ee-4e69-a9af-5a220d2ee079) 
 [<img src="https://app.exeed.pro:443/api/Images/BadgeTemplate/3" alt="Exin" width="100"/>](https://bit.ly/2W7uYtX)
 
-## 📈 GitHub Stats
- 
-![Marcos Costa stats](https://github-readme-stats.vercel.app/api?username=marcoscostadev&theme=cobalt&show_icons=true)
-
-### 💡  Languages used in GitHub
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoscostadev&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
+| 💡 Languages used in GitHub | 📈 GitHub Stats |
+|-----------------------------|-----------------|
+| ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoscostadev&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA) | ![Marcos Costa stats](https://github-readme-stats.vercel.app/api?username=marcoscostadev&theme=cobalt&show_icons=true) |
 
 <p align="center">
 <img src="https://badges.pufler.dev/visits/marcoscostadev/marcoscostadev"></img> &nbsp;
