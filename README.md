@@ -21,6 +21,14 @@ A little about me:
 [![Devops Essentials](https://images.credly.com/size/100x100/images/9a67731c-fdeb-40d5-bf35-aab041b3020b/image.png)](https://www.credly.com/badges/16624e2c-24ee-4e69-a9af-5a220d2ee079) 
 [<img src="https://app.exeed.pro:443/api/Images/BadgeTemplate/3" alt="Exin" width="100"/>](https://bit.ly/2W7uYtX)
 
+## 🚀 Public Projects
+
+| Project | Description |
+|---------|-------------|
+| <img src="https://raw.githubusercontent.com/KamiYomu/KamiYomu/refs/heads/main/Inkscape/logo.svg" alt="KamiYomu" width="80"/> <br> **KamiYomu** | An open‑source Manga Downloader that retrieves content from the internet. |
+| <img src="https://play-lh.googleusercontent.com/OygLvlc6n2z7S4eDqUbfzc-rFjwLYoEzBoX0XS2qJLCV3HrbcwWpxG_zd6_WuTD4nw=w480-h960-rw" alt="Diario RPD" width="80"/> <br> **Diário RPD / RDT Diary** | An Android Application created in MAUI — The Dysfunctional Thought Record Diary (DTR Diary) helps elevate self‑awareness and embark on a transformative journey. Designed to monitor and record automatic thoughts, it serves as a companion to therapy sessions, providing a comprehensive toolset for gaining insight into cognitive patterns. |
+
+
 | 💡 Languages used in GitHub | 📈 GitHub Stats |
 |-----------------------------|-----------------|
 | ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoscostadev&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA) | ![Marcos Costa stats](https://github-readme-stats.vercel.app/api?username=marcoscostadev&theme=cobalt&show_icons=true) |
